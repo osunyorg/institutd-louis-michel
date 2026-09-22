@@ -14,3 +14,23 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/projets/2026-champ-commun1/index.html"
+to = "/projets/2026-champ-commun-1/"
+
+[[redirects]]
+from = "/projets/2026-adesio-1-1/index.html"
+to = "/projets/2026-belenos-1/"
+
+[[redirects]]
+from = "/projets/2026-adesio-1-1-1-1/index.html"
+to = "/projets/2026-champ-commun-1/"
+
+[[redirects]]
+from = "/projets/2026-adesio-1-1-1/index.html"
+to = "/projets/2026-cabestan-1/"
+
+[[redirects]]
+from = "/projets/2026-adesio-1/index.html"
+to = "/projets/2026-adostrophe-1/"
+
