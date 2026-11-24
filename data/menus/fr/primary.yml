@@ -6,8 +6,26 @@ items:
   target: "/projets/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: toutes les créations
+    slug: toutes-les-creations
+    target: "/projets/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  - title: Branding
+    slug: branding
+    target: https://louis-michel.institutd.osuny.site/projects_categories/branding/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - "/projets/"
+  - https://louis-michel.institutd.osuny.site/projects_categories/branding/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Personnes
