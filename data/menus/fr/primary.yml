@@ -25,7 +25,7 @@ items:
     descendants_targets: []
   - title: Typographies
     slug: typographies
-    target: ''
+    target: https://louis-michel.institutd.osuny.site/projects_categories/typographie/
     kind: url
     new_tab: false
     children: []
@@ -38,10 +38,10 @@ items:
     children: []
     descendants_targets: []
   descendants_targets:
-  - ''
   - "/projets/"
   - https://louis-michel.institutd.osuny.site/projects_categories/branding/
   - https://louis-michel.institutd.osuny.site/projects_categories/edition-print/
+  - https://louis-michel.institutd.osuny.site/projects_categories/typographie/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: à propos de moi
