@@ -23,9 +23,25 @@ items:
     new_tab: false
     children: []
     descendants_targets: []
+  - title: Typographies
+    slug: typographies
+    target: ''
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Edition-Print
+    slug: edition-print
+    target: https://louis-michel.institutd.osuny.site/projects_categories/edition-print/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
   descendants_targets:
+  - ''
   - "/projets/"
   - https://louis-michel.institutd.osuny.site/projects_categories/branding/
+  - https://louis-michel.institutd.osuny.site/projects_categories/edition-print/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: à propos de moi
@@ -46,18 +62,4 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Typographies
-  slug: typographies
-  target: ''
-  kind: url
-  new_tab: false
-  children: []
-  descendants_targets: []
-- title: Typographies
-  slug: typographies
-  target: https://louis-michel.institutd.osuny.site/projects_categories/typographie/
-  kind: url
-  new_tab: false
-  children: []
-  descendants_targets: []
 
