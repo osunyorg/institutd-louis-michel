@@ -53,4 +53,11 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
+- title: Typographies
+  slug: typographies
+  target: https://louis-michel.institutd.osuny.site/projects_categories/typographie/
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
 
