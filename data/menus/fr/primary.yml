@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: toutes les créations
-  slug: toutes-les-creations
+- title: Créations
+  slug: creations
   target: "/projets/"
   kind: page
   new_tab: false
@@ -28,8 +28,8 @@ items:
   - https://louis-michel.institutd.osuny.site/projects_categories/branding/
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Personnes
-  slug: personnes
+- title: à propos de moi
+  slug: a-propos-de-moi
   target: "/personnes/"
   kind: page
   new_tab: false
