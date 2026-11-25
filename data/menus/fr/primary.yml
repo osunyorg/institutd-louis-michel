@@ -51,8 +51,6 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: Organisations
   slug: organisations
   target: "/organisations/"
