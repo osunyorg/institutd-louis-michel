@@ -18,7 +18,7 @@ items:
     file: content/fr/projects/_index.html
   - title: Branding
     slug: branding
-    target: https://louis-michel.institutd.osuny.site/projects_categories/branding/
+    target: "/toutes-les-creations/branding/"
     kind: url
     new_tab: false
     children: []
@@ -39,7 +39,7 @@ items:
     descendants_targets: []
   descendants_targets:
   - "/projets/"
-  - https://louis-michel.institutd.osuny.site/projects_categories/branding/
+  - "/toutes-les-creations/branding/"
   - https://louis-michel.institutd.osuny.site/projects_categories/edition-print/
   - https://louis-michel.institutd.osuny.site/projects_categories/typographie/
   path: "/projects"
