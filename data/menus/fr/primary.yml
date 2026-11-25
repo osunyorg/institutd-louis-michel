@@ -46,8 +46,8 @@ items:
   file: content/fr/projects/_index.html
 - title: à propos de moi
   slug: a-propos-de-moi
-  target: "/personnes/"
-  kind: page
+  target: "/personne/louis-michel/"
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
