@@ -18,30 +18,30 @@ items:
     file: content/fr/projects/_index.html
   - title: Branding
     slug: branding
-    target: "/toutes-les-creations/branding/"
+    target: "/projets/branding/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: Typographies
     slug: typographies
-    target: https://louis-michel.institutd.osuny.site/projects_categories/typographie/
+    target: "/projets/typographie/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   - title: Edition-Print
     slug: edition-print
-    target: https://louis-michel.institutd.osuny.site/projects_categories/edition-print/
+    target: "/projets/edition-print/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   descendants_targets:
   - "/projets/"
-  - "/toutes-les-creations/branding/"
-  - https://louis-michel.institutd.osuny.site/projects_categories/edition-print/
-  - https://louis-michel.institutd.osuny.site/projects_categories/typographie/
+  - "/projets/branding/"
+  - "/projets/edition-print/"
+  - "/projets/typographie/"
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: à propos de moi
